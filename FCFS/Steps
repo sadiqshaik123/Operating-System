@@ -1,0 +1,9 @@
+1)Input the processes along with their burst time.
+2)Find waiting time for all the processes.
+3)As first process that comes need not to wait.
+4)Find the turnaround time =wt+bt and waiting time 
+5)Find the average waiting time .
+6)Similarly find average turnaround time.
+
+
+Code is in main.cpp
